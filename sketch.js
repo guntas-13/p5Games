@@ -1,4 +1,3 @@
-// Declare variables
 let x = 200;
 let y = 200;
 let speedX = 0.5;
